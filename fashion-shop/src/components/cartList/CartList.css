@@ -1,0 +1,21 @@
+.cartList {
+  list-style: none;
+  border-radius: 3px;
+  font-size: 20px;
+  width: 70%;
+  margin: 15px;
+  padding: 0;
+  padding: 15px 20px;
+  border: 1px solid gray;
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  background-color: rgba(230, 229, 229, 0.3);
+}
+
+.cartList__heading {
+  background-color: rgb(238, 198, 123);
+  width: 70%;
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  font-size: 26px;
+}

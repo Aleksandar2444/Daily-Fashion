@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Nosifer&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:wght@300;400;600&family=Rampart+One&display=swap");
+
+.page {
+  /* width: 100%; */
+  min-height: 900px;
+  background-color: white;
+}
+
+.page__heading {
+  text-align: center;
+}
+
+.page__heading h2 {
+  margin: 0;
+  font-size: 35px;
+  padding-top: 20px;
+  font-weight: 400;
+}
+
+.page__heading p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.page__content {
+  display: flex;
+  justify-content: center;
+}

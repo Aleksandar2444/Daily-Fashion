@@ -1,0 +1,10 @@
+.productsPage .card__container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+
+.page__heading {
+  font-family: "Rampart One", cursive;
+}

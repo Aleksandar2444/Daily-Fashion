@@ -1,0 +1,19 @@
+.header {
+  background-color: wheat;
+  border-bottom: 3px solid rgb(61, 38, 19);
+  /* padding: 10px; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  position: sticky;
+  top: 0px;
+}
+
+.header h2 {
+  margin: 0;
+  text-align: left;
+  font-size: 40px;
+  font-weight: 300;
+  font-family: "Rampart One", cursive;
+}
